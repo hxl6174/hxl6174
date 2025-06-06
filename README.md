@@ -1,7 +1,11 @@
 ## Hello there 👋 Rick's here
 
 ·  📚 I'm an undergraduate persuing Bachlor Degree in Computer Engineering in HKUST 
+
+
 ·  🛠️ currently looking for a summer internship.
+
+
 ·  🧩 I'm looking to collaborate with projects in computer vision field👁️‍🗨️.
 
 
