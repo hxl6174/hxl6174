@@ -42,7 +42,7 @@
 
 
 ·  Email
-     shunainshuo@gmail.com
+     shunianshuo@gmail.com
 
 <a href = "mailto:shunianshuo@gmail.com">
     <img  alt   = "Email " 
