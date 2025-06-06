@@ -5,48 +5,41 @@
 
 ·  🧩 I'm looking to collaborate with projects in computer vision field👁️‍🗨️.
 
+
 ### Languages and Tools:
-
-<img align    = "left" 
-     alt      = "Visual Studio Code"
-     width    = "26px" 
-     src      = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-     style    = "padding-right:10px;" />
-     
-<img align    = "left" 
-     alt      = "GitHub" 
-     width    = "26px" 
-     src      = "https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" 
-     style    = "padding-right:10px;" />
-
-<img align    = "left" 
-     alt      = "C++" 
-     width    = "26px" 
-     src      = "https://img.icons8.com/?size=96&id=TpULddJc4gTh&format=png" 
-     style    = "padding-right:10px;" />
-
-<img align    = "left" 
-     alt      = "Python" 
-     width    = "26px" 
-     src      = "https://img.icons8.com/?size=96&id=13441&format=png" 
-     style    = "padding-right:10px;" />
-
+<p align="left">
+          <img align    = "left" 
+               alt      = "Visual Studio Code"
+               width    = "65px" 
+               src      = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+               style    = "padding-right:10px;" />
+          <img align    = "left" 
+               alt      = "GitHub" 
+               width    = "65px" 
+               src      = "https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" 
+               style    = "padding-right:10px;" />
+          <img align    = "left" 
+               alt      = "C++" 
+               width    = "65px" 
+               src      = "https://img.icons8.com/?size=96&id=TpULddJc4gTh&format=png" 
+               style    = "padding-right:10px;" />
+          <img align    = "left" 
+               alt      = "Python" 
+               width    = "65px" 
+               src      = "https://img.icons8.com/?size=96&id=13441&format=png" 
+               style    = "padding-right:10px;" /><br></p>
+<br>
 
 ---
 
-<!--
-C++ Pyyhon
--->
-
-
-Contact info:
-
+### Contact info:
 
 
 
 ·  Email
+     shunainshuo@gmail.com
 
-<a href = "shunianshuo@gmail.com">
+<a href = "mailto:shunianshuo@gmail.com">
     <img  alt   = "Email " 
           title = "My email"
           src   = "https://custom-icon-badges.demolab.com/badge/-shunianshuo@gmail.com-698ae8?style=for-the-badge&logo=mention&logoColor=white"
@@ -55,15 +48,17 @@ Contact info:
 
 
 
-·  LinkedIn      
 
+
+
+·  LinkedIn  
 <a href = "https://www.linkedin.com/in/rick-huang-1209ba331/">
     <img  alt   = " linkedin " 
           title = "Linkedin account"
           src   = "https://cdn.pixabay.com/photo/2017/11/10/05/05/linkedin-2935407_1280.png"
-          width = "26px"
+          width = "30px"
           style = "padding-right:10px;
-    "/></a>
+    "/></a> 
 
 
 
