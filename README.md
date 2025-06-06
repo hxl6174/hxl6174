@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello there 👋
+
+·  I am a undergraduate persuing Bachlor Degree in Computer Engineering in HKUST, currently persuing a summer internship.
+·  I’m looking to collaborate with projects in computer vision field.
+
+
 
 <!--
 **hxl6174/hxl6174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
