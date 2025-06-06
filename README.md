@@ -1,10 +1,13 @@
 ## Hello there 👋
 
-·  I am a undergraduate persuing Bachlor Degree in Computer Engineering in HKUST, currently persuing a summer internship.
+·  I am a undergraduate persuing Bachlor Degree in Computer Engineering in HKUST, currently looking for a summer internship.
 
 
 ·  I’m looking to collaborate with projects in computer vision field.
 
+
+Contact info:
+·  Email: shunianshuo@gmail.com
 
 
 <!--
