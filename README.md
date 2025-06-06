@@ -1,9 +1,9 @@
 ## Hello there 👋
 
-·  I am a undergraduate persuing Bachlor Degree in Computer Engineering in HKUST, currently looking for a summer internship.
+·  📚 I'm a undergraduate persuing Bachlor Degree in Computer Engineering in HKUST, currently looking for a summer internship.
 
 
-·  I’m looking to collaborate with projects in computer vision field.
+·  🧩 I'm looking to collaborate with projects in computer vision field👁️‍🗨️.
 
 
 Language:
@@ -22,11 +22,12 @@ C++ Pyyhon
 
 
 Contact info:
+
+
 ·  Email: shunianshuo@gmail.com
 
-<p align = "left">
 
-  <a href = "https://www.linkedin.com/in/rick-huang-1209ba331/">
+·  LinkedIn  <a href = "https://www.linkedin.com/in/rick-huang-1209ba331/">
     <img  alt   = " linkedin " 
           title = "Linkedin account"
           src   = "https://cdn.pixabay.com/photo/2017/11/10/05/05/linkedin-2935407_1280.png"
@@ -51,6 +52,12 @@ Contact info:
     "/></a>
 -->
   
+<details>
+<summary> <h3> About </h3> </summary>
+  To be edited
+
+
+
 
 <!--
 **hxl6174/hxl6174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
