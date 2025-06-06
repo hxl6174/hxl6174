@@ -9,6 +9,13 @@
 Contact info:
 ·  Email: shunianshuo@gmail.com
 
+<p align = "left">
+
+  <a href = "https://www.linkedin.com/in/rick-huang-1209ba331/">
+    <img  alt = " linkedin " 
+          title = "Linkedin account"
+          src = "https://cdn.pixabay.com/photo/2017/11/10/05/05/linkedin-2935407_1280.png"/></a>
+
 
 <!--
 **hxl6174/hxl6174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
