@@ -1,12 +1,12 @@
 ## Hello there 👋 Rick's here
 
-·  📚 I'm an undergraduate persuing Bachlor Degree in Computer Engineering in HKUST 
+·  📚 I'm an Year-2-undergraduate persuing Bachlor Degree in Computer Engineering in HKUST.
 
 
-·  🛠️ currently looking for a summer internship.
+·  🛠️ currently looking for a summer internship, **front-end development** is preferred.
 
 
-·  🧩 I'm looking to collaborate with projects in computer vision field👁️‍🗨️.
+·  🧩 I'm looking to collaborate with projects in **computer vision field👁️‍🗨️**.
 
 
 ### Languages and Tools:
@@ -86,8 +86,15 @@
 -->
   
 <details>
-<summary> <h3> About </h3> </summary>
-  To be edited
+<summary> <h3> Sharing </h3> </summary>
+
+(Some interesting ideas would be **updated** here as sharing session)
+
+
+·  PowerPoint could be useful as a note-taking tool, since you could easily access both visual and textual objects.
+
+
+·  In some social media (such as Whatsapp), you could build a community with multiple groups, which is useful for marking down your ideas (Even the whole "community" might not be big though).
 
 
 
