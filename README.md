@@ -1,12 +1,9 @@
 ## Hello there 👋 Rick's here
 
-·  📚 I'm an Year-2-undergraduate persuing Bachlor Degree in Computer Engineering in HKUST.
+·  📚 I'm a Year-3-undergraduate persuing Bachlor Degree in Computer Engineering in HKUST.
 
 
-·  🛠️ currently looking for a summer internship, **front-end development** is preferred.
-
-
-·  🧩 I'm looking to collaborate with projects in **computer vision field👁️‍🗨️**.
+·  🛠️ currently looking for a part-time internship in  fall term, **web development** is preferred.
 
 
 ### Languages and Tools:
